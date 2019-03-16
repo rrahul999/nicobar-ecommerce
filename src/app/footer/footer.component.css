@@ -1,0 +1,12 @@
+.footer{
+    bottom: 0px;
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+}
+.sec_div{
+    bottom: 0px;
+    padding-bottom: 15px;
+    text-align: center;
+}
